@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>1.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad1</Keyword>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>2.JPG</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad1</Keyword>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>3.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>4.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>5.png</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>6.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>7.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad3</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>8.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad3</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>9.png</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad3</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>10.png</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <Impressions>1</Impressions>
+    <Width>33%</Width>
+    <Keyword>ad1</Keyword>
+  </Ad>
+</Advertisements>

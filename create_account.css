@@ -1,0 +1,70 @@
+﻿html , body {
+    padding:0px;
+    margin:0px;
+}
+
+.container{
+    width: 100px;
+    height: 1000px;
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    float:left;
+    height: 100px;
+    width:inherit;
+    background-color: #922B21;
+    text-align:center;
+}
+
+.middle{
+    height: 900px;
+    width:inherit;
+    float:left;
+    background-color:orange;
+}
+
+#purpleSchool{
+    color:purple;
+    font-size:32px;    
+}
+
+#greenAccount{
+    color:green;
+    font-size:32px;
+}
+
+#more {
+    background-color: #33ccff;
+    color: white;
+    font-size: 32px;
+    margin-left: 250px;
+    margin-top:15px;
+}
+
+#signUp{
+    color: blue;
+}
+
+.middle ul{
+        padding: 0px;   
+}
+
+    
+.middle li{
+        margin-top: 10px;  
+}
+
+#cancelButton{
+    background-color:#33ccff;
+    color:white;
+    font-size:20px;
+    margin-left: 150px;
+}
+
+#createButton{
+    background-color:#33ccff;
+    color:white;
+    font-size:20px;
+}

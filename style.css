@@ -1,0 +1,244 @@
+﻿html, body{
+    padding:0px;
+    margin:0px;
+}
+
+.container{
+    min-width: 1000px;
+    min-height: 1000px;
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    height: 200px;
+    width:inherit;
+    background-color: #922B21;
+}
+
+.head_left{
+    float:left;
+    width: 333px;
+    height:inherit;
+    background-color:inherit;
+}
+
+.head_middle{
+    float:left;
+    width :333px;
+    height: inherit;
+    background-color:inherit;
+    line-height: 110px;
+    text-align:center;
+    padding-left:50px;
+}
+
+
+.head_right{
+    float:right;
+    width:334px;
+    height: inherit;
+    background-color:inherit;
+    line-height: 150px;
+    text-align:right;
+}
+
+#purpleSchool{
+    color:purple;
+}
+
+#greenAccount{
+    color:green;
+}
+
+
+.middle{
+    height: 300px;
+    width:inherit;
+    background-color: #F7DC6F;
+    padding: 0px;
+    margin: 0px;
+}
+
+.mid_left{
+    float: left;
+    height:inherit;
+    width: 20%;
+    background-color: inherit;
+}
+
+
+.mid_right{
+    float: right;
+    width: 60%;
+    height: inherit;
+    background-color:inherit;
+    text-align: left;
+    font-size: 20px;
+
+}
+
+.main{
+    height: 600px;
+    width:inherit;
+    vertical-align:top;
+}
+
+.main_left{
+    float:left;
+    height: inherit;
+    width: 50%;
+    background-color: #ff8000;
+    color:white;
+}
+
+.main_right{
+    float:right;
+    height: inherit;
+    width:50%;
+    background-color:#33cc00;
+    color: white;
+}
+
+    .main_right ul{
+        padding: 0px;   
+    }
+
+    
+    .main_right li{
+        margin-top: 20px;  
+    }
+
+.text{
+    float:right;
+}
+
+#payment2{color:purple}
+#payment1{color:red}
+#online{color:blue; font-size:20px}
+
+
+.create_acc{
+    border:dashed;
+    background-color:#b300b3;
+    color:white;
+    font-size:20px;
+    border:none;
+    margin-right:10px;
+}
+
+#login{
+    background-color:#b300b3;
+    color:white;
+    font-size:20px;
+    border:none;
+    margin-right:10px;
+}
+
+#create_acc{
+    background-color:#b300b3;
+    color:white;
+    font-size:20px;
+    border:none;
+    margin-right:10px;
+}
+
+
+#top
+{
+    background-color:#b300b3;
+    color:white;
+    font-size:20px;
+    border:none;
+    margin-right:10px;
+
+}
+
+#more{
+    background-color:#33ccff;
+    color:white;
+    font-size:32px;
+    margin-left: 150px;
+}
+
+.navMenu{
+    margin:0px;
+    padding:0px;
+}
+
+.navMenu ul {
+    margin: 0px;
+    padding:0px;
+    line-height: 125px;
+}
+
+.navMenu li {
+    margin: 0px;
+    padding-left: 0px;
+    list-style:none;
+    float: left;
+    position: relative;
+    
+}
+
+.navMenu ul li a {
+    text-align:left;
+    color:white;
+    width: 100px;
+    display:block;
+    z-index:-1;
+    text-decoration:none;
+}
+
+
+.navMenu ul ul li a {
+    height: auto;
+}
+
+
+.navMenu ul ul {
+    position: absolute;
+    visibility:hidden;
+    margin-top:-40px;
+    line-height: 30px;
+}
+
+    
+.navMenu ul li:hover ul {
+    visibility:visible;
+    position:absolute;
+}
+
+#textFirst {
+    float:right;
+}
+
+#textLast {
+    float:right;
+}
+
+#textEmail{
+    float:right;
+}
+
+#textPhone{
+    float:right;
+}
+
+#textSchool{
+    float:right;
+}
+
+#textComment{
+    float:right
+}
+
+.star{
+    color:red;
+}
+    
+
+    
+
+
+

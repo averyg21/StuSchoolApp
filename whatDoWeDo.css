@@ -1,0 +1,184 @@
+﻿html ,body {
+    padding:0px;
+    margin:0px;
+}
+
+.container{
+    min-width: 1000px;
+    min-height: 1100px;
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    height: 200px;
+    width:inherit;
+    background-color: #922B21;
+}
+
+.head_left{
+    float:left;
+    width: 333px;
+    height:inherit;
+    background-color:inherit;
+}
+
+.head_middle{
+    float:left;
+    width :333px;
+    height: inherit;
+    background-color:inherit;
+    line-height: 110px;
+    text-align:center;
+    padding-left:50px;
+}
+
+.head_right{
+    float:right;
+    width:334px;
+    height: inherit;
+    background-color:inherit;
+    line-height: 150px;
+    text-align:right;
+}
+
+.navMenu{
+    margin:0px;
+    padding:0px;
+}
+
+.navMenu ul {
+    margin: 0px;
+    padding:0px;
+    line-height: 125px;
+}
+
+.navMenu li {
+    margin: 0px;
+    padding-left: 0px;
+    list-style:none;
+    float: left;
+    position: relative;
+    
+}
+
+.navMenu ul li a {
+    text-align:left;
+    color:white;
+    width: 100px;
+    display:block;
+    z-index:-1;
+    text-decoration:none;
+}
+
+
+.navMenu ul ul li a {
+    height: auto;
+}
+
+
+.navMenu ul ul {
+    position: absolute;
+    visibility:hidden;
+    margin-top:-40px;
+    line-height: 30px;
+}
+
+    
+.navMenu ul li:hover ul {
+    visibility:visible;
+    position:absolute;
+}
+
+#create_acc{
+    background-color:#b300b3;
+    color:white;
+    font-size:20px;
+    border:none;
+    margin-right:10px;
+}
+
+#login{
+    background-color:#b300b3;
+    color:white;
+    font-size:20px;
+    border:none;
+    margin-right:10px;
+}
+
+#purpleSchool{
+    color:purple;
+}
+
+#greenAccount{
+    color:green;
+}
+
+.section1{
+    height: 200px;
+    width:inherit;
+    float:left;
+}
+
+.bottom{
+    height: 600px;
+    width:inherit;
+    float:left;
+    background-color:white;
+}
+
+.left{
+    float:left;
+    height: inherit;
+    width: 50%;
+}
+
+.right{
+    float:right;
+    height: inherit;
+    width:50%;
+}
+
+#intro{
+    color:blue;
+    padding-left:70px;
+}
+
+#easy{
+    color:blue;
+    padding-left:70px;
+    font-size:x-large;
+}
+
+#work{
+    color:blue;
+    padding-left:70px;
+    font-size:x-large;
+}
+
+p.schools{
+    padding-left:70px;
+    font-size:20px;
+}
+
+span.leftSchool{
+    font-size:24px;
+    color:blue;
+}
+
+p.leftSchool{
+    padding-left:70px;
+}
+
+span.rightParent{
+    font-size:24px;
+    color:orange;
+}
+
+p.parents{
+    font-size:20px;
+}
+
+.left ul{
+    padding-left:100px;
+}
